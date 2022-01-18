@@ -1,1 +1,1 @@
-"# ChessRatingAnalysis" 
+# ChessRatingAnalysis
